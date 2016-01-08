@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tacademy.jeongho.hellopj">
+    package="com.tacademy.jeongho.hellopj"> <!--package 명 : App의 Id-->
 
     <application
         android:allowBackup="true"

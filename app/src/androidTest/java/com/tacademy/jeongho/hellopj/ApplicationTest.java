@@ -8,6 +8,7 @@ import android.test.ApplicationTestCase;
  */
 public class ApplicationTest extends ApplicationTestCase<Application> {
     public ApplicationTest() {
+//        테스트 프로그램이 들어 가는 위치
         super(Application.class);
     }
 }
