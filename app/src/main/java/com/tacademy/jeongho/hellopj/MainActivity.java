@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView textView;
     private EditText editText;
     private Button btn;
+
     @Override
 //    onXXX -> callback 메소드
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                textView.setText(editText.getText().toString());
+                editText.setText(textView.getText().toString());
             }
         });
 
