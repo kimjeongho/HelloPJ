@@ -22,9 +22,8 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/FinishButton"
+        android:text="@string/finishbutton"
         android:id="@+id/btn_finish"
         android:layout_alignParentBottom="true"
-        android:layout_alignLeft="@+id/textView2"
-        android:layout_alignStart="@+id/textView2" />
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>

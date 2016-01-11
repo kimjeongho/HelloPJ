@@ -3,10 +3,10 @@
     <string name="app_name">헬로우 예제</string>
     <string name="hello_world">하이 월드!!!</string>
     <string name="hello_android">하이 안드로이드!!!</string>
-    <string name="Button_Toast">토스트</string>
+    <string name="button_toast">토스트</string>
     <string name="show_google">구글버튼</string>
     <string name="show_dial">다이얼버튼</string>
     <string name="toast_message">Toast Test...</string>
-    <string name="Next_Activity">NextActivity</string>
-    <string name="FinishButton">FinishButton</string>
+    <string name="next_activity">NextActivity</string>
+    <string name="finishbutton">FinishButton</string>
 </resources>
