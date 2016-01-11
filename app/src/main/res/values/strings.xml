@@ -2,4 +2,11 @@
     <string name="app_name">HelloPJ</string>
     <string name="hello_world">Hello World!!!</string>
     <string name="hello_android">Hello Android!!!</string>
+    <string name="button_toast">Toast</string>
+    <string name="show_google">GoogleButton</string>
+    <string name="show_dial">DialButton</string>
+    <string name="next_activity">NextActivity</string>
+    <string name="toast_message">Toast Test...</string>
+    <string name="Text">Large Text</string>
+    <string name="finishbutton">FinishButton</string>
 </resources>
